@@ -21,7 +21,7 @@ python main.py
 ##### Observations
 
 The model performs very well except in some cases where it includes parts of car's tires and other corner cases. 
-Some of the examples of the output of the model are shown below.
+Some of the examples of the output are shown in few_output_images folder.
 
 
 
