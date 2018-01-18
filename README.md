@@ -1,4 +1,6 @@
 ﻿# semantic_segmentation
+
+The project is done as part of Udacity self Driving Car Nano Degree Program.
 Created a Fully connected neural Network of Scene understanding binary classification. The classifier classifies each pixel as navigable space on road  or not.
 
 ### Setup
